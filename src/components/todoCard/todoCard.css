@@ -1,0 +1,27 @@
+.todo-card-icons {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.todo-card-section {
+  width: 350px;
+  border: 1px gray solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #eeeeee;
+  margin: 10px 0;
+}
+.todo-card-icons > button {
+  margin-left: 5px;
+  font-weight: bold;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+.read {
+  color: "green";
+  text-decoration: "line-through";
+}
