@@ -17,10 +17,8 @@ To get started with this project, follow these steps:
 
 3. **Run the Project:**
 
-````bash
-    npm start
-    ```
-    This command will start the project. Make sure all dependencies are properly installed before running this command.
+   ```bash
+   npm start
+   ```
 
-Now you're all set to explore and work with the project! If you encounter any issues, feel free to refer to the project documentation or reach out to the project maintainers.
-````
+   This command will start the project. Make sure all dependencies are properly installed before running this command.
